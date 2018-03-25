@@ -22,3 +22,11 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+out/
+.mvn/
+pom.xml
+mvnw.cmd
+ProjetSpringHibernateOeuvre.iml
+target/
+.idea/*
