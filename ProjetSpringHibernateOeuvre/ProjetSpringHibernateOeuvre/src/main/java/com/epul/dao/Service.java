@@ -16,7 +16,7 @@ import javax.persistence.TypedQuery;
 public class Service {
 
 
-
+	//TODO drag , drop and update all mapping related to adherent into adherentService
 
 
 	/* Lister les adherents

@@ -22,6 +22,8 @@ public class MultiControleur {
 
 //	private static final Logger logger = LoggerFactory.getLogger(MultiControleur.class);
 
+	//TODO: drag, drop and update all Mappings related to adherent into a specific controller
+	//TODO: let "/" "index.htm" and "error" in this multicontroller
 	@RequestMapping(value = "listerAdherent.htm")
 	public ModelAndView afficherLesAdrents(HttpServletRequest request, HttpServletResponse response) throws Exception {
 		String destinationPage;
